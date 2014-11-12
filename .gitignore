@@ -1,4 +1,5 @@
-# comment *.txt
+# comment 
+temp.txt
 .DS_Store
 *.zip
 *.gz
