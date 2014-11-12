@@ -2,7 +2,7 @@
 # comment 
 temp.txt
 tempfile2.txt
-.DS_Store
+*.DS_Store
 *.zip
 *.gz
 log/*.log
